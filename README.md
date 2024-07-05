@@ -1,4 +1,8 @@
     Weather App
+![Screenshot_10](https://github.com/dinistan/weather-app-react/assets/157032474/3689afac-4790-41fd-b86a-a07fbae85476)
+
+![Screenshot_15](https://github.com/dinistan/weather-app-react/assets/157032474/96064b8a-bb2c-4aac-8caa-ec7bfe495ec3)
+
 Welcome to the Weather App project! This application provides current weather data by utilizing the OpenWeatherMap API. Users can obtain weather information such as temperature, weather condition, humidity, and wind speed by entering the name of a city, state, or country.
 
     Features
